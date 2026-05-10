@@ -1,0 +1,1 @@
+UPDATE public.product_variants SET price = 0, compare_price = NULL, updated_at = now();
